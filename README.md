@@ -1,15 +1,17 @@
 # Queue Using Linked List
 
-## Introduction
+## Description
+This project implements a Queue using a Linked List.
 
-This project implements Queue using Linked List.
-
-## Operations
+## Features
 
 - Insert
 - Delete
 - Search
 - Display
+
+## Data Structure
+Queue using Linked List (FIFO)
 
 ## Technologies Used
 
@@ -17,9 +19,9 @@ This project implements Queue using Linked List.
 - CSS
 - JavaScript
 
-## Data Structure
+## How to Run
 
-Queue using Linked List.
+Open index.html in a web browser
 
 ## Author
 
