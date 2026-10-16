@@ -11,7 +11,7 @@ This project implements a Queue using a Linked List.
 - Display
 
 ## Data Structure
-Queue using Linked List (FIFO)
+Queue using Linked List {FIFO}
 
 ## Technologies Used
 
