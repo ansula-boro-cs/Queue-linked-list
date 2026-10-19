@@ -95,5 +95,5 @@ https://ansula-boro-cs.github.io/Queue-linked-list/
 - Learn how to publish a website using GitHub Pages.
 
 ## 👨‍💻 Author
-   Ansula Boro
+   **Developed by:** Ansula Boro
 
